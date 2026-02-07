@@ -69,7 +69,7 @@
   "vars": {
     "GITHUB_URL": "https://github.com/jmbish04/lmsdk",
     "ALLOW_TO_CREATE_MORE_THAN_ONE_TENANT": "false",
-    "BETTER_AUTH_DISABLED_SIGN_UP": "true"
+    "BETTER_AUTH_DISABLED_SIGN_UP": "false"
   }
   /**
    * Smart Placement
